@@ -1,2 +1,0 @@
-# Namavoor.github
-About Namavoor
