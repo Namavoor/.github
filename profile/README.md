@@ -47,12 +47,29 @@ Note: Good practice to check the repository specific details in read me file of 
 
 We welcome anyone who is interested in working on the project, whether it be contributing to feature development, addressing issues, improving documentation, or suggesting ways to enhance the project. This directly contributes to the project goal and the philosophy behind it. 
 
-To begin working on this project, refer [CONTRIBUTING](https://github.com/Namavoor/documents/blob/main/CONTRIBUTING.md) file. 
+As there are multiple subsystems which uses different environment and tools, these are seperated with sepearate repositories with it's own contribution guidline. Thus, follow the below steps to get started. 
+
+#### Step:1 
+To begin working on this project, open [Projects](https://github.com/orgs/Namavoor/projects?query=is%3Aopen) 
+
+![Projects-Namavoor](https://github.com/Namavoor/.github/assets/109693291/028c96f9-496a-4338-baf4-5d76b7882f62)
+
+
+#### Step:2
+Browse all the projects and issues in it to work on.
+
+![Browse - Namavoor](https://github.com/Namavoor/.github/assets/109693291/82c22f5f-8fe1-4d31-9d88-2fe76b8a4c2d)
+
+
+#### Step:3 
+Once you have choosen the issue, open the repository associated with that issue and open the CONTRIBUTING file to find the specific project contribution guideline. 
+
+![Contribution - Namavoor](https://github.com/Namavoor/.github/assets/109693291/b6aeeb2b-d1a4-4503-815e-a17aecf712ae)
+
 
 ### Project communication
 
-
-In order to facilitate effective communication and encourage discussion amongst everyone involved in a project, the use of "GitHub discussions" is highly recommended. This platform allows team members to ask questions, share new ideas, and engage in other forms of collaborative communication.
+To facilitate effective communication and encourage discussion amongst everyone involved in a project, the use of "GitHub discussions" is highly recommended. This platform allows team members to ask questions, share new ideas, and engage in other forms of collaborative communication.
 
 To ensure that discussions are organized and easy to follow, it is recommended that the "Labels" field be utilized. This allows for clear categorization of topics and makes it easier for everyone to find the information they need.
 
@@ -62,7 +79,7 @@ By combining these different tools and platforms, teams can work together more e
 
 ### License 
 
-Lincenses are different for different repository, thus you can find the linceses in each repository expilicitily. 
+Licenses are different for the different repositories, thus you can find the licenses in each repository explicitly. 
 
 
 
