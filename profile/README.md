@@ -35,7 +35,7 @@ The primary goal is to deploy the product in off-grid homes in India and all aro
 
 ASPICE 4.0
 
-While this project is not specifically automotive related, we prioritize the quality of the product by following ASPICE 4.0 as a guideline. You can find the guidline here - [ASPICE 4.0](https://vda-qmc.de/wp-content/uploads/2023/06/Automotive-SPICE-PAM-40-Gelbbandrelease.pdf) draft version. 
+While this project is not specifically automotive related, we prioritize the quality of the product by following V model approach with ASPICE 4.0 as a guideline. You can find the guidline here - [ASPICE 4.0](https://vda-qmc.de/wp-content/uploads/2023/06/Automotive-SPICE-PAM-40-Gelbbandrelease.pdf) draft version. 
 
 
 ![image](https://github.com/Namavoor/.github/assets/109693291/34b7d06c-31b1-4307-a2e8-3b7e84ce7303)
@@ -51,30 +51,29 @@ The  project is efficiently managed on the widely-used development platform, Git
 
 To get more insight into the project, you can find all the necessary documentation for the project in the dedicated "[documents](https://github.com/Namavoor/documents)" repository. As a best practice, all documentation files shall be created and maintained exclusively in markdown format. To ensure high accuracy and consistency, any updates to the documents are only accepted through pull requests. Further, to be consistent, the draw.io is used for block diagrams and PlantUML for sequence diagrams. To learn more about being consistent, please refer to the "documents" repository guidelines. 
 
-Note: Good practice to check the repository specific details in read me file of the corresponding repository if needed 
-
 ### How to contribute 
 
 We welcome anyone who is interested in working on the project, whether it be contributing to feature development, addressing issues, improving documentation, or suggesting ways to enhance the project. This directly contributes to the project goal and the philosophy behind it. 
 
-As there are multiple subsystems which uses different environment and tools, these are seperated with sepearate repositories with it's own contribution guidline. Thus, follow the below steps to get started. 
+As there are multiple subsystems which uses different environment and tools, the contribution guidelines are seperate for sepearate repositories. Thus, follow the below steps to get started. 
 
 #### Step:1 
 To begin working on this project, open [Projects](https://github.com/orgs/Namavoor/projects?query=is%3Aopen) 
 
-![Projects-Namavoor](https://github.com/Namavoor/.github/assets/109693291/028c96f9-496a-4338-baf4-5d76b7882f62)
+![Projects ](https://github.com/Namavoor/.github/assets/109693291/138fa6fd-fa9b-4831-ba4f-86b5b0f3ab44)
 
 
 #### Step:2
 Browse all the projects and issues in it to work on.
 
-![Browse - Namavoor](https://github.com/Namavoor/.github/assets/109693291/82c22f5f-8fe1-4d31-9d88-2fe76b8a4c2d)
+![Browse](https://github.com/Namavoor/.github/assets/109693291/74883cc7-a0da-4950-8d29-81739d45c089)
+
 
 
 #### Step:3 
 Once you have choosen the issue, open the repository associated with that issue and open the CONTRIBUTING file to find the specific project contribution guideline. 
 
-![Contribution - Namavoor](https://github.com/Namavoor/.github/assets/109693291/b6aeeb2b-d1a4-4503-815e-a17aecf712ae)
+![Contribution](https://github.com/Namavoor/.github/assets/109693291/e2b9edb0-10f9-4de8-87fa-b8bc370edf30)
 
 
 ### Project communication
@@ -83,9 +82,6 @@ To facilitate effective communication and encourage discussion amongst everyone 
 
 To ensure that discussions are organized and easy to follow, it is recommended that the "Labels" field be utilized. This allows for clear categorization of topics and makes it easier for everyone to find the information they need.
 
-If voice and video communication is necessary, Google Meet is the ideal solution. This online meeting platform offers a seamless way to connect with team members, facilitate discussions, and ensure that everyone is on the same page.
-
-By combining these different tools and platforms, teams can work together more efficiently and effectively, ultimately achieving better outcomes and higher levels of success.
 
 ### License 
 
