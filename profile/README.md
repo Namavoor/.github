@@ -28,7 +28,8 @@ The aim of Namavoor project is to build a complete end to end open source Off Gr
 
  ### Project goal 
 
-The primary goal is to deploy the product in off-grid homes in India and all around the globe. 
+* The primary goal is to deploy the product in off-grid homes in India and all around the globe.
+* Develop the entire product with open source/unlimited free tools to keep the project truly open source.
 
 
 ### Project compliance 
