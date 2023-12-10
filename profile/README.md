@@ -15,14 +15,14 @@ The Namavoor project aims to build a complete end-to-end open-source Off Grid En
 - The System shall charge the battery pack with a Solar panel  
   
 <p align="center">
-<img src="https://github.com/Namavoor/documents/blob/main/doc_images/OGESS%20Block%20diagram_.drawio.png" width="550" height="300"/>
+<img src="https://github.com/Namavoor/.github/assets/109693291/a4145d1f-696a-4219-851c-b7ec5454d756" width="600" height="300"/>
 </p>
 
 
 ### Project Structure 
 
 <p align="center">
-<img src="https://github.com/Namavoor/documents/blob/main/doc_images/OGESS%20breakdown.drawio.png"/>
+<img src="https://github.com/Namavoor/.github/assets/109693291/67c11030-34c6-4e9a-954d-456c458ae218" width="800" height="300"/>
 </p>
 
 
