@@ -1,6 +1,6 @@
 ## About Namavoor
 
-The aim of Namavoor project is to build a complete end to end open source Off Grid Energy Stroge System for rural development and upbring a possitive change in the world. 
+The Namavoor project aims to build a complete end-to-end open-source Off Grid Energy Storage System for rural development and bring a positive change in the world by providing 24x7 electricity to homes. 
  
 &nbsp;
 <p align="center">
@@ -36,7 +36,7 @@ The aim of Namavoor project is to build a complete end to end open source Off Gr
 
 ASPICE 4.0
 
-While this project is not specifically automotive related, we prioritize the quality of the product by following V model approach with ASPICE 4.0 as a guideline. You can find the guidline here - [ASPICE 4.0](https://vda-qmc.de/wp-content/uploads/2023/06/Automotive-SPICE-PAM-40-Gelbbandrelease.pdf) draft version. 
+While this project is not specifically automotive-related, we prioritize the quality of the product by following the V model approach with ASPICE 4.0 as a guideline. You can find the guideline here - [ASPICE 4.0](https://vda-qmc.de/wp-content/uploads/2023/06/Automotive-SPICE-PAM-40-Gelbbandrelease.pdf) draft version. 
 
 
 ![image](https://github.com/Namavoor/.github/assets/109693291/34b7d06c-31b1-4307-a2e8-3b7e84ce7303)
@@ -50,13 +50,13 @@ The  project is efficiently managed on the widely-used development platform, Git
 ### Project documentation
 
 
-To get more insight into the project, you can find all the necessary documentation for the project in the dedicated "[documents](https://github.com/Namavoor/documents)" repository. As a best practice, all documentation files shall be created and maintained exclusively in markdown format. To ensure high accuracy and consistency, any updates to the documents are only accepted through pull requests. Further, to be consistent, the draw.io is used for block diagrams and PlantUML for sequence diagrams. To learn more about being consistent, please refer to the "documents" repository guidelines. 
+To get more insight into the project, you can find all the necessary documentation for the project in the dedicated "[documents](https://github.com/Namavoor/documents)" repository. As a best practice, all documentation files shall be created and maintained exclusively in markdown format. To ensure high accuracy and consistency, any updates to the documents are only accepted through pull requests. Further, to be consistent, draw.io is used for block diagrams and PlantUML for sequence diagrams. To learn more about being consistent, please refer to the "documents" repository guidelines. 
 
 ### How to contribute 
 
-We welcome anyone who is interested in working on the project, whether it be contributing to feature development, addressing issues, improving documentation, or suggesting ways to enhance the project. This directly contributes to the project goal and the philosophy behind it. 
+We welcome anyone interested in working on the project, whether it be contributing to feature development, addressing issues, improving documentation, or suggesting ways to enhance the project. This directly contributes to the project goal and the philosophy behind it. 
 
-As there are multiple subsystems which uses different environment and tools, the contribution guidelines are seperate for sepearate repositories. Thus, follow the below steps to get started. 
+As multiple subsystems use different environments and tools, the contribution guidelines are separate for separate repositories. Thus, follow the below steps to get started. 
 
 #### Step:1 
 To begin working on this project, open [Projects](https://github.com/orgs/Namavoor/projects?query=is%3Aopen) 
@@ -72,7 +72,7 @@ Browse all the projects and issues in it to work on.
 
 
 #### Step:3 
-Once you have choosen the issue, open the repository associated with that issue and open the CONTRIBUTING file to find the specific project contribution guideline. 
+Once you have chosen the issue, open the repository associated with that issue and open the CONTRIBUTING file to find the specific project contribution guideline. 
 
 ![Contribution](https://github.com/Namavoor/.github/assets/109693291/e2b9edb0-10f9-4de8-87fa-b8bc370edf30)
 
