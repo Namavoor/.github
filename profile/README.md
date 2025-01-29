@@ -1,6 +1,6 @@
 ## About Namavoor
 
-The Namavoor project aims to build a complete end-to-end open-source Off Grid Energy Storage System for rural development and bring a positive change in the world by providing 24x7 electricity to homes. 
+The Namavoor project aims to build a complete end-to-end Off Grid Energy Storage System for rural development and bring a positive change in the world by providing 24x7 electricity to homes. 
  
 
 <p align="center">
