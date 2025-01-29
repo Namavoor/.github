@@ -36,7 +36,7 @@ The Namavoor project aims to build a complete end-to-end Off Grid Energy Storage
 
 ASPICE 4.0
 
-While this project is not specifically automotive-related, we prioritize the quality of the product by following the V model approach with ASPICE 4.0 as a guideline. You can find the guideline here - [ASPICE 4.0](https://vda-qmc.de/wp-content/uploads/2023/06/Automotive-SPICE-PAM-40-Gelbbandrelease.pdf) draft version. 
+For the automotive variants of the system, we prioritize the quality of the product by following the V model approach with ASPICE 4.0 as a guideline. You can find the guideline here - [ASPICE 4.0](https://vda-qmc.de/wp-content/uploads/2023/06/Automotive-SPICE-PAM-40-Gelbbandrelease.pdf) draft version. 
 
 
 ![image](https://github.com/Namavoor/.github/assets/109693291/34b7d06c-31b1-4307-a2e8-3b7e84ce7303)
